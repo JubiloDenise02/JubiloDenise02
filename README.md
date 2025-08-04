@@ -77,13 +77,13 @@
 
 #### Development
 - Agile (Scrum), Manual & Automated Testing (Cypress)
-- Clean Code, Documentation, Git Workflow
+- Clean Code
 
 #### Web/Mobile
-- Kotlin, Android, HTML/CSS/JS, PHP, Python, SQL, Arduino
+- Kotlin, Android, HTML/CSS/JS, PHP, Python, SQL
 
 #### Tools
-- XAMPP, Docker, VS Code, GitHub, GitHub Desktop, Android Studio
+- XAMPP, Docker, VS Code, GitHub, GitHub Desktop, Android Studio, Arduino IDE
 
 #### Documentation
 - Microsoft Word, Canva
