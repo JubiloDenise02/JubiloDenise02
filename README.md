@@ -12,7 +12,7 @@
 - 🎯 Goal: Build impactful and user-friendly applications
 - 📝 Fun fact: I once spent 3 hours debugging... only to find a missing semicolon.
 
-📌 _Note: My previous GitHub account (active from 2021) was deleted after the expiration of a school-granted premium subscription. All my projects are safely backed up and will be gradually re-uploaded here._
+📌 _Note: My previous GitHub account (active from 2021) was deleted after the expiration of a school-granted premium subscription. All my projects are safely backed up and gradually re-uploaded here._
 
 ---
 
